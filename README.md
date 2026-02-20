@@ -2,7 +2,7 @@
 
 Builder at the intersection of **AI, product thinking, and real-world systems**.
 
-Currently an Amazon Fulfillment Associate — I analyse the systems I work inside, then build tools to improve them.
+I embed myself in real-world operational environments, observe systems from the inside, and build tools to prove what I find. My approach: contextual immersion → multi-perspective analysis → working prototype. I use AI-powered workflows (Claude Code, Ollama, local LLMs on Mac M1 Pro) to bridge insight and implementation fast — not chasing perfection, but validating what matters.
 
 ---
 
