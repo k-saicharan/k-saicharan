@@ -2,9 +2,9 @@
 
 Builder at the intersection of **AI, product thinking, and real-world systems**.
 
-I don't analyse systems from a distance — I embed myself in them. My methodology starts with contextual immersion: getting inside operational environments, noticing the friction that goes unreported, and extracting insights that only direct experience can surface. From there, it's a short path to execution. I use AI-powered workflows (Claude Code, Ollama, local LLMs on Mac M1 Pro) to move fast from observation to working prototype — not chasing engineering perfection, but validating what actually matters.
+My approach starts with observation — I look at how systems actually behave, identify friction that's easy to overlook, and work out what's worth solving. From there, the path to execution is short. I use Google Antigravity, Claude Code, and terminal-based workflows to move quickly from insight to working prototype, integrating open-source tools pragmatically along the way.
 
-My edge is the combination: I see what needs to exist, understand *why* from lived experience, and build enough to prove the idea. Pattern recognition, clear articulation, and rapid prototyping — in that order.
+Most of what I build started as something I needed myself. That's where the ideas come from — lived experience, not briefs. My value is in the full loop: spotting what needs to exist, understanding why it matters, and building enough to prove the idea works — validation over perfection.
 
 ---
 
