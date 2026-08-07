@@ -6,23 +6,25 @@ My approach starts with observation — I look at how systems actually behave, i
 
 Most of what I build started as something I needed myself. That's where the ideas come from — lived experience, not briefs. My value is in the full loop: spotting what needs to exist, understanding why it matters, and building enough to prove the idea works — validation over perfection.
 
+**Portfolio:** [Systems Thinking from the Floor](https://k-saicharan.github.io/portfolios/ops/) (ops) · [What the Image Does](https://k-saicharan.github.io/portfolios/film/) (film)
+
 ---
 
-## What I'm Building
+## Currently Building
 
 | Project | What it does | Stack |
 |---|---|---|
+| [stacked](https://github.com/k-saicharan/stacked) | Flutter app for warehouse pickers — one-handed pallet logging, live pace tracking. Pilot in progress. | Flutter · Dart |
 | [tote-counter](https://github.com/k-saicharan/tote-counter) | AI vision tool that counts warehouse tote stacks using Llama 4 via Groq — 69% exact accuracy via chain-of-thought prompting | Python · FastAPI · Groq |
 | [CantStopLearning](https://github.com/k-saicharan/CantStopLearning) | Android app that generates AI audio lessons on any topic via Perplexity Sonar API + TTS | React Native · TypeScript · Supabase |
 | [stridemind](https://github.com/k-saicharan/stridemind) | Walking companion app — capture timestamped insights mid-walk via Health Connect | Flutter · Dart · SQLite |
 | [shoe-fit-biomechanics](https://github.com/k-saicharan/shoe-fit-biomechanics) | Interactive research documentary on the engineering of shoe discomfort | HTML · CSS · Vite |
 
-## Case Studies & Research
+## Case Studies
 
 | Study | Focus |
 |---|---|
-| [Amazon Delivery UX Proposal](https://github.com/k-saicharan/amazon-delivery-ux-proposal) | UX + financial modelling — £168M ROI case for a single notification UI fix |
-| [Amazon Envelope Analysis](https://github.com/k-saicharan/amazon-envelope-process-analysis) | SQL-backed process improvement from firsthand warehouse observation |
+| [Google Store Order Case](https://github.com/k-saicharan/google-order-case-study) | A live analysis of a 21-day unresolved Pixel order that crossed six operational systems — what each layer saw, what it couldn't, and the fixes ranked by impact |
 
 ## Stack
 
