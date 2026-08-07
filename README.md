@@ -22,7 +22,6 @@ Most of what I build started as something I needed myself. That's where the idea
 | Study | Focus |
 |---|---|
 | [Amazon Delivery UX Proposal](https://github.com/k-saicharan/amazon-delivery-ux-proposal) | UX + financial modelling — £168M ROI case for a single notification UI fix |
-| [Perplexity Voice Mode Study](https://github.com/k-saicharan/PerplexityVoiceModeCaseStudy) | Feature proposal for voice conversation continuity with impact analysis |
 | [Amazon Envelope Analysis](https://github.com/k-saicharan/amazon-envelope-process-analysis) | SQL-backed process improvement from firsthand warehouse observation |
 
 ## Stack
